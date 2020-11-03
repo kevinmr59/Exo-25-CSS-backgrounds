@@ -20,7 +20,7 @@ Attention, piège !!
   
   3. Téléchargez 10 images du web
   
-  4. Créez 10 <div> ayant pour width : 200px et height: 200px
+  4. Créez 10 div ayant pour width : 200px et height: 200px
   
   5. Placez une image de votre choix dans chaque div, une image sur deux doit remplir tout le div, libre choix des règles CSS pour les autres.
   
